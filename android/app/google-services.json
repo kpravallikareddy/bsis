@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453621264068",
+    "project_id": "bsis-1ba18",
+    "storage_bucket": "bsis-1ba18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453621264068:android:b4391c86a6cf1da74f2391",
+        "android_client_info": {
+          "package_name": "com.onlinereportsystem.onlinereportingsyatem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453621264068-cvd4odksksjgulhaifqno3ohmstqeasb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4S7Wx-nc4GbJGshfW2mTWjugAlJTpIwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453621264068-cvd4odksksjgulhaifqno3ohmstqeasb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
